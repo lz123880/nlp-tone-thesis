@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 年报原文体积大且可通过 01 脚本重新下载，不入库
+data/reports/
+
+# 系统文件
+.DS_Store
+Thumbs.db
